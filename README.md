@@ -10,6 +10,14 @@ Click the button below to deploy the Storage Account to your Azure subscription:
   <img src="https://aka.ms/deploytoazurebutton" alt="Deploy to Azure">
 </a>
 
+## Deploy to Azure Government
+
+Click the button below to deploy the Storage Account to your Azure Government subscription:
+
+<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fddesonier%2Fdeploystorageaccount%2Fmain%2Fdeploy.json" target="_blank">
+  <img src="https://aka.ms/deploytoazurebutton" alt="Deploy to Azure Government">
+</a>
+
 ## Template Details
 
 The ARM template deploys the following resources:
